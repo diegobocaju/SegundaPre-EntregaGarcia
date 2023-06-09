@@ -1,0 +1,8 @@
+setup.py
+Usuarios.egg-info/PKG-INFO
+Usuarios.egg-info/SOURCES.txt
+Usuarios.egg-info/dependency_links.txt
+Usuarios.egg-info/top_level.txt
+paquete/Cliente.py
+paquete/Televisores.py
+paquete/__init__.py
